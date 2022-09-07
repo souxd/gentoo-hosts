@@ -1,0 +1,5 @@
+media-video/ffmpeg vpx gme chromium libdrm libxml2 openh264 opengl openal opus sdl v4l vorbis webp x264 x265 fdk frei0r rav1e svt-av1 lzma ladspa libass rubberband speex zimg modplug libcaca gsm libaom codec2 theora jpeg2k svg vmaf
+media-video/pipewire udev echo-cancel gstreamer jack-sdk v4l extra sound-server dbus
+media-video/wireplumber elogind
+media-video/mpv -xv archive drm gbm libcaca libmpv openal rubberband jpeg zimg libcaca
+media-video/vlc qt5 gnutls live lua matroska rtsp theora upnp vcdx vorbis vpx matroska

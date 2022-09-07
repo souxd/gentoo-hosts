@@ -1,0 +1,6 @@
+sys-libs/zlib minizip
+sys-libs/glibc stack-realign
+sys-libs/ncurses minimal
+# required by app-emulation/qemu-7.0.0-r3::gentoo[static-user,-static]
+# required by app-emulation/qemu (argument)
+>=sys-libs/zlib-1.2.12-r3 static-libs

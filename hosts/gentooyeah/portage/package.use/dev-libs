@@ -1,0 +1,15 @@
+dev-libs/libxml2 icu
+dev-libs/libpcre2 pcre32
+# required by dev-libs/libappindicator-12.10.1_p20200706::gentoo
+# required by gui-apps/waybar-0.9.13::gentoo[tray]
+# required by waybar (argument)
+>=dev-libs/libdbusmenu-16.04.0-r1 gtk3
+dev-libs/glib dbus
+dev-libs/qtkeychain gnome-keyring
+# required by app-emulation/qemu-7.0.0-r3::gentoo[static-user,-static]
+# required by app-emulation/qemu (argument)
+>=dev-libs/glib-2.72.3 static-libs
+# required by dev-libs/glib-2.72.3::gentoo
+# required by app-emulation/qemu-7.0.0-r3::gentoo[-static]
+# required by app-emulation/qemu (argument)
+>=dev-libs/libpcre-8.45-r1 static-libs

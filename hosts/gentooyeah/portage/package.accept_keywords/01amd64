@@ -1,0 +1,219 @@
+games-roguelike/dwarf-fortress ~amd64
+games-roguelike/nethack ~amd64
+games-misc/nyancat ~amd64
+gui-wm/river ~amd64
+dev-lang/zig ~amd64
+gui-apps/foot ~amd64
+media-libs/fcft ~amd64
+dev-libs/tllist ~amd64
+games-fps/xonotic ~amd64
+x11-apps/igt-gpu-tools ~amd64
+x11-drivers/OpenTabletDriver-bin ~amd64
+dev-dotnet/dotnet-sdk-bin ~amd64
+media-fonts/iosevka ~amd64
+dev-libs/bemenu ~amd64
+app-admin/doas ~amd64
+virtual/wine ~amd64
+app-emulation/wine-staging ~amd64
+app-emulation/wine-mono ~amd64
+x11-misc/pcmanfm ~amd64
+x11-libs/libfm ~amd64
+dev-libs/teakra ~amd64
+gui-apps/wlr-randr ~amd64
+gui-apps/oguri ~amd64
+gui-apps/yambar ~amd64
+media-fonts/nerd-fonts ~amd64
+media-libs/cubeb ~amd64
+app-shells/thefuck ~amd64
+games-util/doomseeker ~amd64
+games-fps/zandronum ~amd64
+media-sound/pulseaudio-ctl ~amd64
+dev-util/cmake ~amd64
+dev-util/meson ~amd64
+media-libs/libsndfile ~amd64
+net-voip/mumble ~amd64
+media-gfx/opentoonz ~amd64
+www-client/chromium-bin ~amd64
+media-video/rtsp-simple-server ~amd64
+dev-util/ninja ~amd64
+games-util/lutris ~amd64
+games-emulation/dolphin ~amd64
+gui-apps/wf-recorder ~amd64
+games-util/steam-meta ~amd64
+games-util/steam-launcher ~amd64
+games-util/steam-client-meta ~amd64
+games-util/game-device-udev-rules ~amd64
+gui-apps/slurp ~amd64
+gui-apps/grim ~amd64
+dev-libs/wayland ~amd64
+dev-libs/wayland-protocols ~amd64
+dev-util/wayland-scanner ~amd64
+dev-util/rustup ~amd64
+dev-qt/qtbase ~amd64
+sys-kernel/gentoo-sources ~amd64
+games-util/esteam ~amd64
+net-libs/libcurl-debian ~amd64
+sys-libs/glibc ~amd64
+dev-cpp/notcurses ~amd64
+gui-apps/waybar ~amd64
+dev-libs/date ~amd64
+media-sound/mopidy ~amd64
+dev-python/pykka ~amd64
+games-arcade/srb2 ~amd64
+games-action/srb2kart ~amd64
+app-emulation/waydroid ~amd64
+dev-python/gbinder ~amd64
+dev-libs/gbinder ~amd64
+dev-libs/libglibutil ~amd64
+net-libs/nodejs ~amd64
+dev-util/shfmt ~amd64
+dev-python/pipenv ~amd64
+sys-apps/fd ~amd64
+gui-apps/foot-terminfo ~amd64
+net-misc/wget2 ~amd64
+net-misc/ytfzf ~amd64
+sys-libs/libfixposix ~amd64
+#dev-lang/python ~amd64
+dev-python/ensurepip-wheels ~amd64
+games-util/parsec ~amd64
+media-gfx/hydrus ~amd64
+dev-python/cloudscraper ~amd64
+dev-python/python-mpv ~amd64
+app-emacs/graphviz-dot-mode ~amd64
+sys-config/ltoize ~amd64
+dev-python/gpep517 ~amd64
+dev-python/setuptools ~amd64
+www-client/torbrowser-launcher ~amd64
+app-text/languagetool ~amd64
+dev-qt/qtbase ~amd64
+sci-libs/blis ~amd64
+net-im/ripcord ~amd64
+www-client/woob ~amd64
+sci-geosciences/geopy ~amd64
+sci-geosciences/GeographicLib ~amd64
+www-client/luakit ~amd64
+www-client/browsh ~amd64
+net-misc/yt-dlp ~amd64
+media-sound/helvum ~amd64
+dev-games/aseprite ~amd64
+net-im/whatsapp-desktop-bin ~amd64
+dev-util/wasmer ~amd64
+dev-lang/jwasm ~amd64
+games-util/slade ~amd64
+dev-util/msbuild ~amd64
+dev-dotnet/msbuild-tasks-api ~amd64
+dev-dotnet/msbuild-defaulttasks ~amd64
+dev-dotnet/msbuild-roslyn-csc ~amd64
+dev-dotnet/buildtools ~amd64
+dev-dotnet/newtonsoft-json ~amd64
+dev-dotnet/system-reflection-metadata ~amd64
+dev-dotnet/system-collections-immutable ~amd64
+dev-dotnet/msbuildtasks ~amd64
+gui-wm/gamescope ~amd64
+dev-libs/libliftoff ~amd64
+net-misc/youtube-viewer ~amd64
+net-im/nheko ~amd64
+dev-cpp/qt-jdenticon ~amd64
+dev-db/lmdb++ ~amd64
+dev-libs/mtxclient ~amd64
+media-plugins/gst-plugins-qt5 ~amd64
+# required by media-libs/gst-plugins-base-1.20.2::gentoo[X]
+# required by media-libs/gst-plugins-good-1.20.2::gentoo
+# required by media-plugins/gst-plugins-flac-1.20.2::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.2::gentoo[flac]
+# required by net-im/nheko-0.10.0::guru[voip]
+# required by net-im/nheko (argument)
+>=x11-libs/libXv-1.0.11-r2 abi_x86_32
+# required by media-libs/gst-plugins-base-1.20.2::gentoo[opengl,-gles2]
+# required by media-libs/gst-plugins-good-1.20.2::gentoo
+# required by media-plugins/gst-plugins-flac-1.20.2::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.2::gentoo[flac]
+# required by net-im/nheko-0.10.0::guru[voip]
+# required by net-im/nheko (argument)
+>=media-libs/graphene-1.10.8 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.20.2::gentoo[opus]
+# required by net-im/nheko-0.10.0::guru[voip]
+# required by net-im/nheko (argument)
+>=media-plugins/gst-plugins-opus-1.20.2 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.20.2::gentoo[v4l]
+# required by net-im/nheko-0.10.0::guru[voip]
+# required by net-im/nheko (argument)
+>=media-plugins/gst-plugins-v4l2-1.20.2 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.20.2::gentoo[vpx]
+# required by net-im/nheko-0.10.0::guru[voip]
+# required by net-im/nheko (argument)
+>=media-plugins/gst-plugins-vpx-1.20.2 abi_x86_32
+# required by media-plugins/gst-plugins-vaapi-1.20.2::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.2::gentoo[vaapi]
+# required by net-im/nheko-0.10.0::guru[voip]
+# required by net-im/nheko (argument)
+>=media-libs/gst-plugins-bad-1.20.2 abi_x86_32
+# required by media-libs/gst-plugins-base-1.20.2::gentoo[X]
+# required by media-libs/gst-plugins-good-1.20.2::gentoo
+# required by media-plugins/gst-plugins-flac-1.20.2::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.2::gentoo[flac]
+# required by net-im/nheko-0.10.0::guru[video,voip]
+# required by net-im/nheko (argument)
+>=x11-libs/libXv-1.0.11-r2 abi_x86_32
+# required by media-libs/gst-plugins-base-1.20.2::gentoo[opengl,-gles2]
+# required by media-libs/gst-plugins-good-1.20.2::gentoo
+# required by media-plugins/gst-plugins-flac-1.20.2::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.2::gentoo[flac]
+# required by net-im/nheko-0.10.0::guru[video,voip]
+# required by net-im/nheko (argument)
+>=media-libs/graphene-1.10.8 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.20.2::gentoo[opus]
+# required by net-im/nheko-0.10.0::guru[video,voip]
+# required by net-im/nheko (argument)
+>=media-plugins/gst-plugins-opus-1.20.2 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.20.2::gentoo[v4l]
+# required by net-im/nheko-0.10.0::guru[video,voip]
+# required by net-im/nheko (argument)
+>=media-plugins/gst-plugins-v4l2-1.20.2 abi_x86_32
+# required by media-plugins/gst-plugins-meta-1.20.2::gentoo[vpx]
+# required by net-im/nheko-0.10.0::guru[video,voip]
+# required by net-im/nheko (argument)
+>=media-plugins/gst-plugins-vpx-1.20.2 abi_x86_32
+# required by media-plugins/gst-plugins-vaapi-1.20.2::gentoo
+# required by media-plugins/gst-plugins-meta-1.20.2::gentoo[vaapi]
+# required by net-im/nheko-0.10.0::guru[video,voip]
+# required by net-im/nheko (argument)
+>=media-libs/gst-plugins-bad-1.20.2 abi_x86_32
+dev-libs/olm ~amd64
+dev-cpp/coeurl ~amd64
+gui-apps/waypipe ~amd64
+gui-apps/wayvnc ~amd64
+dev-libs/aml ~amd64
+gui-libs/neatvnc ~amd64
+app-misc/tmate ~amd64
+media-video/vlc ~amd64
+app-text/xournalpp ~amd64
+sci-mathematics/maxima ~amd64
+sci-mathematics/wxmaxima ~amd64
+gui-apps/eww ~amd64
+app-text/calibre ~amd64
+dev-lang/tcc ~amd64
+gui-apps/foot ~amd64
+dev-libs/mp ~amd64
+dev-libs/xbyak ~amd64
+dev-util/nihstro ~amd64
+media-libs/libvmaf ~amd64
+app-admin/cockpit ~amd64
+app-metrics/pcp ~amd64
+sys-apps/tuned ~amd64
+dev-python/python-linux-procfs ~amd64
+sys-fs/dmg2img ~amd64
+app-emulation/libguestfs ~amd64
+app-misc/hivex ~amd64
+app-emulation/libguestfs-appliance ~amd64
+dev-ml/ocaml-gettext ~amd64
+dev-ml/ocaml-fileutils ~amd64
+dev-qt/qt-creator ~amd64
+dev-qt/qtquicktimeline ~amd64
+sys-fs/ncdu-bin ~amd64
+app-emulation/guestfs-tools ~amd64
+=dev-lang/ocaml-4.10.2-r3 ~amd64
+games-fps/gzdoom ~amd64
+media-libs/zmusic ~amd64
+net-misc/freetube-bin ~amd64
+app-shells/ksh ~amd64

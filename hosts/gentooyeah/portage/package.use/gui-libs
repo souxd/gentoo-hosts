@@ -1,0 +1,4 @@
+gui-libs/wlroots X
+# required by gui-apps/wayvnc-0.4.0-r1::gentoo
+# required by gui-apps/wayvnc (argument)
+>=gui-libs/neatvnc-0.4.0 tracing

@@ -1,0 +1,3 @@
+sys-devel/gcc no-o3.conf
+
+www-client/ungoogled-chromium no-o3.conf # O3 works Compiled with CLang, since GCC was breaking for me. Ofast does compile but the browser is completely broken.

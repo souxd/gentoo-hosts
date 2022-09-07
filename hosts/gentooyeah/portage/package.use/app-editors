@@ -1,0 +1,1 @@
+app-editors/emacs gtk -athena -Xaw3d dbus cairo dynamic-loading games gfile gif gsettings gui imagemagick gzip-el harfbuzz jpeg json libxml2 mailutils png sound svg toolkit-scroll-bars xft tiff webp -xwidgets gpm -jit

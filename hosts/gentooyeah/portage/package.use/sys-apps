@@ -1,0 +1,6 @@
+# required by app-emulation/qemu-7.0.0-r3::gentoo[static-user,xattr,-static]
+# required by app-emulation/qemu (argument)
+>=sys-apps/attr-2.5.1 static-libs
+# required by app-emulation/virt-manager-4.0.0::gentoo[-test,gtk]
+# required by app-emulation/virt-manager (argument)
+>=sys-apps/dbus-1.14.0-r4 X

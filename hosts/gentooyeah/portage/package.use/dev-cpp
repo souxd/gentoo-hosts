@@ -1,0 +1,3 @@
+# required by media-sound/pavucontrol-5.0-r1::gentoo
+# required by media-sound/pavucontrol (argument)
+>=dev-cpp/gtkmm-3.24.6:3.0 X wayland

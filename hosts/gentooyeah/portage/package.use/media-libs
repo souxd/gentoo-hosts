@@ -1,0 +1,35 @@
+media-libs/mesa X
+media-libs/harfbuzz icu
+media-libs/libepoxy X
+media-libs/libsdl2 X gles2 opengl haptic
+media-libs/libsndfile
+media-libs/libglvnd X
+# required by games-fps/zandronum-3.1::haarp[opengl]
+# required by zandronum (argument)
+media-libs/libsdl opengl X aalib
+# required by games-roguelike/dwarf-fortress-0.47.05::gentoo
+# required by games-roguelike/dwarf-fortress (argument)
+>=media-libs/sdl-image-1.2.12_p20210314 png
+media-libs/libopenmpt ogg vorbis
+media-libs/sdl2-mixer flac fluidsynth midi opus vorbis
+media-libs/glfw wayland-only
+media-libs/sdl2-image gif png jpeg tiff webp
+media-libs/freeimage jpeg jpeg2k png tiff webp raw
+# required by media-plugins/frei0r-plugins-1.7.0-r1::gentoo[facedetect]
+# required by media-video/ffmpeg-4.4.2::gentoo[frei0r]
+# required by media-video/ffmpeg (argument)
+>=media-libs/opencv-4.5.5-r2 contribdnn contrib
+media-libs/aalib X gpm
+# required by media-gfx/gimp-2.10.32::gentoo
+# required by net-print/gutenprint-5.3.4-r2::gentoo[gimp]
+# required by net-print/gutenprint (argument)
+>=media-libs/gegl-0.4.36-r1 cairo
+# required by media-gfx/hydrus-493::gentoo[python_single_target_python3_10]
+# required by media-gfx/hydrus (argument)
+>=media-libs/opencv-4.5.5-r2 jpeg png
+# required by media-gfx/graphviz-2.50.0::gentoo
+# required by media-gfx/graphviz (argument)
+>=media-libs/gd-2.3.3-r1 fontconfig truetype
+media-libs/libavif rav1e svt-av1 extras gdk-pixbuf
+media-libs/libsixel curl gd jpeg png gtk
+media-libs/zmusic fluidsynth mpg123

@@ -1,0 +1,23 @@
+diff --git a/toonz/sources/tnztools/toolutils.cpp b/toonz/sources/tnztools/toolutils.cpp
+index 1ceff93..db4032f 100644
+--- a/toonz/sources/tnztools/toolutils.cpp
++++ b/toonz/sources/tnztools/toolutils.cpp
+@@ -42,6 +42,7 @@
+ #include "tools/strokeselection.h"
+ 
+ #include <QPainter>
++#include <QPainterPath>
+ #include <QGLWidget>  // for QGLWidget::convertToGLFormat
+ #include <QFont>
+ #include <QFontMetrics>
+diff --git a/toonz/sources/toonzqt/functionpanel.cpp b/toonz/sources/toonzqt/functionpanel.cpp
+index bd7ed8c..bcae353 100644
+--- a/toonz/sources/toonzqt/functionpanel.cpp
++++ b/toonz/sources/toonzqt/functionpanel.cpp
+@@ -28,6 +28,7 @@
+ #include <QWheelEvent>
+ #include <QMenu>
+ #include <QSettings>
++#include <QPainterPath>
+ 
+ #include <cmath>

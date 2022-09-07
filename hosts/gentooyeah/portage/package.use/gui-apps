@@ -1,0 +1,5 @@
+gui-apps/grim jpeg
+gui-apps/waybar mpd network sndio tray wifi
+gui-apps/waypipe dmabuf ffmpeg lz4 vaapi
+gui-apps/wayvnc gbm tracing
+gui-apps/eww wayland

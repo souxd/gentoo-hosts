@@ -1,0 +1,6 @@
+app-text/xmlto text
+app-text/ghostscript-gpl cups
+# required by media-gfx/gimp-2.10.32::gentoo
+# required by net-print/gutenprint-5.3.4-r2::gentoo[gimp]
+# required by net-print/gutenprint (argument)
+>=app-text/poppler-22.06.0 cairo

@@ -1,0 +1,3 @@
+# required by app-editors/emacs-28.1::gentoo
+# required by app-editors/emacs (argument)
+>=app-emacs/emacs-common-1.8 gui games

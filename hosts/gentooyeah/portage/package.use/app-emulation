@@ -1,0 +1,5 @@
+app-emulation/wine-staging X cups openal sdl udev usb ldap pcap gphoto2 pipelight samba gstreamer mp3 netapi realtime v4l xinerama
+app-emulation/qemu ssh udev gtk sdl spice bzip2 fuse gnutls io-uring jemalloc iscsi lzo multipath nfs numa opengl python sasl sdl-image snappy static-user usb usbredir vde vhost-user-fs virgl virtfs vte xatrr systemtap
+app-emulation/libvirt lxc pcap nfs fuse policykit
+app-emulation/virt-manager gui policykit sasl gtk
+app-emulation/libguestfs libvirt -ocaml lua gtk inspect-icons systemtap

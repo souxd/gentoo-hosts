@@ -1,0 +1,6 @@
+net-misc/curl threads gnutls rtmp ssh
+net-misc/wget2 lzip lzma
+net-misc/youtube-viewer gtk
+# required by app-emulation/virt-manager-4.0.0::gentoo[-test,gtk]
+# required by app-emulation/virt-manager (argument)
+>=net-misc/spice-gtk-0.40-r1 usbredir sasl

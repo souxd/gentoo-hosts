@@ -1,0 +1,35 @@
+# Blasphemous
+>=sys-devel/gcc-4.6.0
+>=sys-devel/gcc-4.6.0[cxx]
+>=sys-libs/glibc-2.15
+dev-libs/glib:2[abi_x86_64]
+sys-libs/zlib[abi_x86_64]
+x11-libs/gdk-pixbuf[abi_x86_64]
+x11-libs/gtk+:2[abi_x86_64]
+
+# Don't Starve Together
+>=sys-devel/gcc-4.6.0
+>=sys-devel/gcc-4.6.0[cxx]
+>=sys-devel/gcc-4.6.0[multilib,cxx]
+>=sys-devel/gcc-4.6.0[multilib]
+>=sys-libs/glibc-2.15
+>=sys-libs/glibc-2.15[stack-realign(+),multilib]
+media-libs/libglvnd[abi_x86_32]
+media-libs/libglvnd[abi_x86_64]
+net-libs/libcurl-debian:4[abi_x86_32]
+net-libs/libcurl-debian:4[abi_x86_64]
+
+# Hollow Knight
+>=sys-devel/gcc-4.6.0
+>=sys-libs/glibc-2.15
+sys-libs/zlib[abi_x86_64]
+
+# Team Fortress 2
+>=sys-devel/gcc-4.6.0[multilib,cxx]
+>=sys-devel/gcc-4.6.0[multilib]
+>=sys-libs/glibc-2.15
+>=sys-libs/glibc-2.15[stack-realign(+),multilib]
+media-libs/fontconfig:1.0[abi_x86_32]
+media-libs/freetype:2[abi_x86_32]
+media-libs/openal[abi_x86_32]
+net-libs/libcurl-debian:4[abi_x86_32]

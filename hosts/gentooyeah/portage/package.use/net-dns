@@ -1,0 +1,2 @@
+# required by app-emulation/libvirt (argument)
+>=net-dns/dnsmasq-2.86-r1 script

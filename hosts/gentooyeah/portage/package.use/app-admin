@@ -1,0 +1,4 @@
+app-admin/doas persist
+app-admin/keepassxc autotype browser keeshare yubikey
+app-admin/sudo offensive
+app-admin/cockpit -pcp -tuned -udisks -networkmanager

@@ -1,0 +1,7 @@
+# required by media-gfx/hydrus-493::gentoo[python_single_target_python3_10]
+# required by media-gfx/hydrus (argument)
+>=dev-python/QtPy-2.1.0-r3 pyside2
+# required by media-gfx/hydrus-493::gentoo[python_single_target_python3_10]
+# required by media-gfx/hydrus (argument)
+>=dev-python/pillow-9.2.0 lcms
+dev-python/PyQt5 gui widgets

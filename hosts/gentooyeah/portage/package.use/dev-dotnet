@@ -1,0 +1,17 @@
+# required by dev-dotnet/buildtools-1.0.27-r1::shnurise
+# required by dev-dotnet/system-reflection-metadata-2.0.0_pre::shnurise
+# required by dev-dotnet/msbuild-defaulttasks-15.9.20.62856-r1::shnurise
+# required by dev-util/msbuild-15.9.20.62856-r7::shnurise
+# required by dev-util/msbuild (argument)
+>=dev-dotnet/newtonsoft-json-10.0.3 pkg-config
+# required by dev-dotnet/msbuild-defaulttasks-15.9.20.62856-r1::shnurise
+# required by dev-util/msbuild-15.9.20.62856-r7::shnurise
+# required by dev-dotnet/newtonsoft-json-10.0.3::shnurise
+# required by dev-dotnet/buildtools-1.0.27-r1::shnurise
+# required by dev-dotnet/system-reflection-metadata-2.0.0_pre::shnurise
+>=dev-dotnet/system-collections-immutable-2.0.0_pre-r1 pkg-config
+# required by dev-dotnet/msbuild-defaulttasks-15.9.20.62856-r1::shnurise
+# required by dev-util/msbuild-15.9.20.62856-r7::shnurise
+# required by dev-dotnet/newtonsoft-json-10.0.3::shnurise
+# required by dev-dotnet/buildtools-1.0.27-r1::shnurise
+>=dev-dotnet/system-reflection-metadata-2.0.0_pre pkg-config

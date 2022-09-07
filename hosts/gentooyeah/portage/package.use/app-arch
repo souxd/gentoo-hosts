@@ -1,0 +1,4 @@
+app-arch/file-roller libnotify
+# required by app-emulation/libguestfs-1.48.4::gentoo
+# required by app-emulation/libguestfs (argument)
+>=app-arch/unzip-6.0_p27 natspec
